@@ -1,0 +1,4 @@
+1,f,Lighter,Helps light the way,,,
+2,f,Red Cure Component,It appears to be glowing,,Maybe this item can be combined with others to create a cure?
+3,f,Green Cure Component,It appears to be glowing,,Maybe this item can be combined with others to create a cure?
+4,f,Blue Cure Component,It appears to be glowing,,Maybe this item can be combined with others to create a cure?
